@@ -12,3 +12,24 @@
 <p><em>хобі</em>вивчаю ведичну астрологію, для активних продулянок на природі маю собаку породи хаскі</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html lag="uk">
+<head>
+<tytle>контаки</tytle>
+</head>
+<body>
+<h1>мої контакти</h1>
+<p>телефон: +(380)996171204</p>
+<p>адреса електронної пошти: keklik0505@gmail.com</p>  
+</body>
+</html>
+<!DOCTYPE html>
+<html lag="uk">
+<head>
+<tytle>моя галерея</tytle>
+</head>
+<body>
+<a href=https://1drv.ms/i/c/83b8c9ba6eccd707/IQBERKQeloVGQ4dHWtbejsc8AdIygoUWD_GW7WtiUEHN0SI?e=iH86iL</a>
+<img src=<img width="1200" height="1277" alt="5 фактів про сказ 1" src="https://github.com/user-attachments/assets/022e25ac-1765-41f6-b7a8-250f8e25763e" /></img>
+</body>
+</html>
